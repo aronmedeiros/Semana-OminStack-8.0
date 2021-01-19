@@ -1,6 +1,6 @@
 # Tindev
 
-Projeto desenvolvido na Semana OmniStack #8.0 da RocketSeat
+Projeto desenvolvido na Semana OmniStack 8.0 da RocketSeat
 
 
 - Backend: NodeJS;
